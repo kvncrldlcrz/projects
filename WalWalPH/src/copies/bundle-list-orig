@@ -1,0 +1,122 @@
+<div className='bundle-positioning'>                
+                <div className='bundle-box'>                  
+                  <div className='bundle-a-container'>
+                    <Image className='bundle-a' src='/image/bottle/bundle-promo/bundle-a/bundle-absolut-tonic.png' width={308.06} height={308.06}/>          
+                  </div>
+                  <div className='special-offer-container'>
+                    <div className='special-offer-pricing'>
+                      <strong style={{fontWeight: '600'}}>Absolut + 2 Schweppes</strong>
+                    </div>
+                    <div className='special-offer-pricing' > 
+                      For only <span style={{color: '#fa923d', fontWeight: '600', marginLeft: '5px' }}>₱1,500</span>
+                    </div>
+                    <div className='add-to-cart-container'> 
+                      <button className='add-to-cart'>
+                        + Cart
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                
+                
+                <div className='bundle-box'>
+                  <div className='bundle-b-container'>
+                    <Image className='bundle-b' src='/image/bottle/bundle-promo/bundle-b/bundle-jack-jose.png' width={308.06} height={308.06}/>
+                  </div>
+                  <div className='special-offer-container'>                    
+                    <div className='special-offer-pricing'>
+                      <strong style={{fontWeight: '600'}}>Jack Daniels + Jose Cuervo</strong>
+                    </div>
+                    <div className='special-offer-pricing' > 
+                      For only <span style={{color: '#fa923d', fontWeight: '600', marginLeft: '5px' }}>₱2,000</span>
+                    </div>
+                    <div className='add-to-cart-container'> 
+                      <button className='add-to-cart'>
+                        + Cart
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                
+                <div className='bundle-box'>
+                  <div className='bundle-c-container'>                   
+                    <Image className='bundle-c' src='/image/bottle/bundle-promo/bundle-c/bundle-bombay-bacardi-hennessy.png' width={308.06} height={308.06}/>                  
+                  </div>
+                  <div className='special-offer-container'>
+                    <div className='special-offer-pricing'>
+                      <strong style={{fontWeight: '600'}}>Bombay + Bacardi + Hennessy</strong>
+                    </div>
+                    <div className='special-offer-pricing' > 
+                      For only <span style={{color: '#fa923d', fontWeight: '600', marginLeft: '5px' }}>₱3,100</span>
+                    </div>
+                    <div className='add-to-cart-container'> 
+                      <button className='add-to-cart'>
+                        + Cart
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                
+                
+              </div>
+
+              <div className='bundle-positioning'>                
+                <div className='bundle-box'>                  
+                  <div className='bundle-a-container'>
+                    <Image className='bundle-a' src='/image/bottle/bundle-promo/bundle-a/bundle-absolut-tonic.png' width={308.06} height={308.06}/>          
+                  </div>
+                  <div className='special-offer-container'>
+                    <div className='special-offer-pricing'>
+                      <strong style={{fontWeight: '600'}}>Absolut + 2 Schweppes</strong>
+                    </div>
+                    <div className='special-offer-pricing' > 
+                      For only <span style={{color: '#fa923d', fontWeight: '600', marginLeft: '5px' }}>₱1,500</span>
+                    </div>
+                    <div className='add-to-cart-container'> 
+                      <button className='add-to-cart'>
+                        + Cart
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                
+                
+                <div className='bundle-box'>
+                  <div className='bundle-b-container'>
+                    <Image className='bundle-b' src='/image/bottle/bundle-promo/bundle-b/bundle-jack-jose.png' width={308.06} height={308.06}/>
+                  </div>
+                  <div className='special-offer-container'>                    
+                    <div className='special-offer-pricing'>
+                      <strong style={{fontWeight: '600'}}>Jack Daniels + Jose Cuervo</strong>
+                    </div>
+                    <div className='special-offer-pricing' > 
+                      For only <span style={{color: '#fa923d', fontWeight: '600', marginLeft: '5px' }}>₱2,000</span>
+                    </div>
+                    <div className='add-to-cart-container'> 
+                      <button className='add-to-cart'>
+                        + Cart
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                
+                <div className='bundle-box'>
+                  <div className='bundle-c-container'>                   
+                    <Image className='bundle-c' src='/image/bottle/bundle-promo/bundle-c/bundle-bombay-bacardi-hennessy.png' width={308.06} height={308.06}/>                  
+                  </div>
+                  <div className='special-offer-container'>
+                    <div className='special-offer-pricing'>
+                      <strong style={{fontWeight: '600'}}>Bombay + Bacardi + Hennessy</strong>
+                    </div>
+                    <div className='special-offer-pricing' > 
+                      For only <span style={{color: '#fa923d', fontWeight: '600', marginLeft: '5px' }}>₱3,100</span>
+                    </div>
+                    <div className='add-to-cart-container'> 
+                      <button className='add-to-cart'>
+                        + Cart
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>

@@ -1,0 +1,116 @@
+.checkout-body-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 1200px;
+  padding: 185px;
+  background-color: #1b1a1c;
+}
+
+.checkout-body {
+  position: absolute;
+  display: flex;
+  width: 1150px;
+  height: 1200px;
+}
+
+.checkout-title {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 365px;
+  height: 80px;
+  color: #FFF7ED;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 72px;
+  font-weight: 600;
+  margin-top: 50px;
+  
+}
+
+.checkout-spark {
+  position: absolute;
+  top: 4px;
+  right: 1px;
+}
+
+.checkout-subtitle {
+  position: absolute;  
+  top: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 285px;
+  height: 29px;
+  color: #FB923C;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.checkout-guest-container {
+  position: absolute;
+  background-color: #26262a;
+  top: 200px;
+  width: 675px;
+  height: 449px;
+  padding: 35px 40px 10px 40px;
+}
+
+.checkout-as-guest-details {
+  position: relative;
+  display: grid;
+  gap: 20px;
+}
+
+.input::placeholder {
+  color: black;
+  font-size: 12px;
+  font-weight: 600;
+  padding-left: 16px;
+}
+
+.continue-as {
+  width: 100%;
+  height: 50px;
+  color: #FFF7ED;
+  font-size: 20px;
+}
+
+.checkout-inputs {
+  color: black;
+  width: 100%;
+  height: 45px;
+  padding-left: 15px;
+  text-transform: uppercase;
+  font-size: 16px;
+  border-radius: 999px;
+  top: 60px;
+}
+
+.checkout-select-address {
+  position: relative;
+  width: 100%;
+  height: 45px;
+}
+
+.chevron-address {
+  position: absolute;
+  top: 13px;
+  right: 10px;
+  
+}
+
+.checkout-payment-button {
+  position: absolute;
+  bottom: 20px;
+  right: 40px;
+  width: 206px;
+  height: 39px;
+  background-color: #F97316;
+  color: #FFEDD5;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  text-align: center;
+  border-radius: 999px;
+}

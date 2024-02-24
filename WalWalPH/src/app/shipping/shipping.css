@@ -1,0 +1,155 @@
+.payment-shipping-body {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 1050px;
+  background-color: #19181a;
+}
+
+.payment-shipping-content {
+  display: inline-block;
+  width: 1127px;
+  height: 1050px;
+}
+
+.shipping-page-title {
+  display: flex;
+  align-items: center;
+  width: 1127px;
+  height: 180px;
+  margin-top: 185px;
+  color: #FFF7ED;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 72px;
+  font-weight: 600;
+}
+
+.delivery-address-section {  
+  display: flex;
+  width: 1127px;
+  height: 200px;
+  border-radius: 20px;
+  margin: 0px 0px 50px 0px;
+  background-color: #3F3F46;
+}
+
+.shipping-location-container {
+  position: relative;
+  width: 90px;
+  height: 100%;
+}
+
+.location-marker-image {
+  position: absolute;
+  right: 8px;
+  top: 25px;
+}
+
+.delivery-address-container {
+  width: 100%;
+  height: 100%;
+  
+}
+
+.delivery-address-title {
+  position: relative;
+  width: 100%;
+  height: 75px;
+  color: #FFF7ED;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.delivery-receiver-name {
+  color: #FFF7ED;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  width: 100%;
+  height: 40px;
+}
+
+.delivery-receiver-address {
+  color: #FFF7ED;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  width: 40%;
+  height: 40px;
+}
+
+.delivery-payment-option-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 1127px;
+  height: 110px;
+  border-radius: 20px;
+  margin: 50px 0px 50px 0px;
+  background-color: #26272b;
+}
+
+.delivery-payment-option-text {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 275px;
+  height: 40px;
+  gap: 10px;
+  color: #FFF7ED;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.selected-payment-method {
+  position: absolute;
+  display: flex;
+  text-align: end;
+  align-items: center;
+  width: 300;
+  right: 10px;
+  color: #FFF7ED;
+  font-size: 18px;
+}
+
+.shipping-option-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 1127px;
+  height: 110px;
+  border-radius: 20px;
+  margin: 50px 0px 50px 0px;
+  background-color: #26272b;
+}
+
+.shipping-option {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 275px;
+  height: 40px;
+  gap: 10px;
+  color: #FFF7ED;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.payment-dropdown-menu-list {
+  position: absolute;
+  display: flex;
+  width: 250px;
+  height: 120px;
+  right: 20px;
+  font-size: 15px;
+ }
+
+
+.select-payment-dropdown {
+  width: 120px;
+  height: 20px;
+}
